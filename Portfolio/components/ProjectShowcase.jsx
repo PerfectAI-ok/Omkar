@@ -21,7 +21,7 @@ const projects = [
     id: 2,
     title: "GenxAI Platform",
     description: "GenxAI is an AI-powered platform Developed for Boosting Productivity,which includes features like text-summarization ,code-converter ,cover letter generation ,Improve Response, Roadmap Generator.",
-    image: "/GenxAI.png",
+    image: "GenxAI.png",
     technologies: ["Next.js", "Tailwind","Clerk", "Springboot", "Docker"],
     liveUrl: "https://genxai-psi.vercel.app/",
     githubUrl: "https://github.com/OmkarKathile007/GenXai",
