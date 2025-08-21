@@ -40,7 +40,7 @@ export default function Home() {
       description:
         "A next-generation AI platform offering 6+ productivity tools and accurate, on-demand insights powered by top trending AI models",
       tags: ["NextJs", "SpringBoot", "Gemini AI", "Tailwind CSS"],
-      image: "/gen.png",
+      image: "/Genxai.png",
       liveLink: "https://genxai-psi.vercel.app/",
       githubLink: "https://github.com/OmkarKathile007/GenXai",
     },
@@ -151,4 +151,5 @@ export default function Home() {
     </>
   );
 }
+
 
