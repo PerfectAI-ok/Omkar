@@ -40,7 +40,7 @@ export default function Home() {
       description:
         "A next-generation AI platform offering 6+ productivity tools and accurate, on-demand insights powered by top trending AI models",
       tags: ["NextJs", "SpringBoot", "Gemini AI", "Tailwind CSS"],
-      image: "/Genxai.png",
+      image: "/gen.png",
       liveLink: "https://genxai-psi.vercel.app/",
       githubLink: "https://github.com/OmkarKathile007/GenXai",
     },
@@ -54,7 +54,7 @@ export default function Home() {
         "IBM Cloud DB",
         "Tailwind CSS",
       ],
-      image: "/AiHealthCare.png",
+      image: "/healthcare.png",
       liveLink: "https://health-care-ai-assistant-main.vercel.app/",
       githubLink:
         "https://github.com/OmkarKathile007/HealthCare_AI_Assistant_MAIN",
@@ -151,3 +151,4 @@ export default function Home() {
     </>
   );
 }
+
